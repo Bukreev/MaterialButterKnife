@@ -28,7 +28,7 @@ public class UserView extends LinearLayout implements UserViewInterface {
     @BindView(R.id.user_phone)
     protected TextInputEditText mUserPhone;
 
-    private final UserViewBinding binding;
+    private final UserViewInterface binding;
 
     public UserView(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
