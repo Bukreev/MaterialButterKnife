@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MaterialButterKnife</string>
+    <string name="user_name">Имя</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">Телефон</string>
+    <string name="button_next">Далее</string>
 </resources>
